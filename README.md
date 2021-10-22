@@ -27,7 +27,7 @@ When brought back online:
 
 ## Usage
    
-![alt text](public/assets/Capture.png)
+![demo-screenshot](assets/Capture.png)
 
 # Features
 
