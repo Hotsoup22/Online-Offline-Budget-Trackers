@@ -27,9 +27,9 @@ When brought back online:
 
 ## Usage
    
-  ![demo-screenshot](assets/Capture.png)
+![demo-screenshot](assets/Capture.PNG)
 
-  ![demo-screenshot link2](https://drive.google.com/file/d/1mWnRiBHBMb21MlsYw45A3EFqvEGq7HZz/view?usp=sharing)
+![demo-screenshot link2](https://drive.google.com/file/d/1mWnRiBHBMb21MlsYw45A3EFqvEGq7HZz/view?usp=sharing)
 
 # Features
 
